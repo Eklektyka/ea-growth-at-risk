@@ -1,0 +1,5 @@
+tau,h,sample,n,tick_loss_full,tick_loss_benchmark,loss_ratio
+0.05,4,all_periods,17,1.718735,2.471372,0.695458
+0.05,4,excl_pandemic,13,1.982265,1.321386,1.500141
+0.5,4,all_periods,17,2.545071,2.968637,0.857319
+0.5,4,excl_pandemic,13,1.603379,1.668258,0.961110
